@@ -1,5 +1,5 @@
-scikit-learn>=1.4.1.post1
-ydata-profiling>=4.6.5
+scikit-learn>=1.4.2
+ydata-profiling>=4.8.3
 xlsxwriter>=3.2.0
 tabulate>=0.9.0
 ipywidgets>=8.1.2
